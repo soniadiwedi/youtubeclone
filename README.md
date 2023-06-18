@@ -3,7 +3,9 @@ This repository contains a clone of YouTube, a popular online video-sharing plat
 
 ## Features
 1.Home Page: Provides users with a personalized feed of recommended videos based on their viewing history and subscriptions.
+
 2.Search Page: Allows users to discover videos by entering specific keywords or phrases, providing relevant search results.
+
 3.Suggestions Page: Offers users recommendations for videos based on their viewing preferences, popular trends, and related content.
 
 ## Home Page
